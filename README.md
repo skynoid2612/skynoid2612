@@ -8,7 +8,7 @@ Passionate Data Science Engineer with a keen interest in deploying cutting-edge 
 
 * 🌍  I'm based in Nagpur, Maharashtra, India
 * ✉️  You can contact me at [akash26121992@gmail.com](mailto:akash26121992@gmail.com)
-* 🧠  I'm learning YOLO, Pytorch
+* 🧠  I'm learning Generative AI
 
 ### Skills
 
