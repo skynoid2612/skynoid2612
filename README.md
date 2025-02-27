@@ -1,33 +1,153 @@
-Hi 👋 My name is Akash Hemant Saxena
-====================================
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0891B2&height=200&section=header&text=Akash%20Hemant%20Saxena&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=30" width="100%"/>
+</div>
 
-Data Science Engineer
----------------------
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0891B2&center=true&vCenter=true&random=false&width=435&lines=AI+%7C+ML+Engineer;RAG+%26+LLM+Expert;Full-Stack+Data+Scientist" alt="Typing SVG" />
+  
+  <p>Building intelligent systems that transform data into meaningful insights</p>
+  
+  <a href="https://www.linkedin.com/in/as26/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:akash26121992@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/skynoid2612">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div>
 
-Passionate Data Science Engineer with a keen interest in deploying cutting-edge models. Proficient in leveraging AI and ML techniques, I specialize in Natural Language Processing (NLP), Convolutional Neural Networks (CNN), and Generative AI. Mastery extends to frameworks like scikit-learn, Deep Learning. Excited about solving complex challenges, I've successfully implemented models, including ANN and BERT. Adept in end-to-end development, I've contributed to impactful projects, such as analytics dashboards, predictive models, and recommendation modules, consistently driving business success.
+<br>
 
-* 🌍  I'm based in Nagpur, Maharashtra, India
-* ✉️  You can contact me at [akash26121992@gmail.com](mailto:akash26121992@gmail.com)
-* 🧠  I'm learning Generative AI
+## 👨‍💻 About Me
 
-### Skills
+```python
+class AkashSaxena:
+    def __init__(self):
+        self.name = "Akash Hemant Saxena"
+        self.role = "AI Engineer"
+        self.location = "Nagpur, Maharashtra, India"
+        self.education = "BE in Computer Science & Engineering (RTMNU, 2015)"
+        self.experience = "5+ years"
+        self.interests = ["Generative AI", "RAG Systems", "Computer Vision", "NLP"]
+    
+    def say_hi(self):
+        print("Thanks for dropping by! Let's build something amazing together!")
+
+me = AkashSaxena()
+me.say_hi()
+```
+
+<br>
+
+<div align="center">
+  <h3>🚀 Currently Building</h3>
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://img.icons8.com/color/96/000000/artificial-intelligence.png" width="60" height="60"/>
+        <br><strong>Kuber.AI</strong>
+        <br><em>Advanced RAG-based financial advisory system</em>
+      </td>
+      <td align="center" width="50%">
+        <img src="https://img.icons8.com/color/48/000000/picture.png" width="60" height="60"/>
+        <br><strong>Game Recommendation Engine</strong>
+        <br><em>AI-powered personalized game recommendations</em>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+<div align="center">
+  <h2>🛠️ Tech Universe</h2>
+
+  
+  ### AI/ML Frameworks
+  ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white)
+  ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white)
+  ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
+  ![Hugging Face](https://img.shields.io/badge/HuggingFace-yellow?style=flat-square&logo=huggingface&logoColor=white)
+  ![LangChain](https://img.shields.io/badge/LangChain-teal?style=flat-square)
+  ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+  ![Claude](https://img.shields.io/badge/Claude-black?style=flat-square)
+  
+  ### AI Techniques
+  ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-blue?style=flat-square)
+  ![NLP](https://img.shields.io/badge/NLP-green?style=flat-square)
+  ![RAG](https://img.shields.io/badge/RAG-purple?style=flat-square)
+  ![CNN](https://img.shields.io/badge/CNN-orange?style=flat-square)
+  ![BERT](https://img.shields.io/badge/BERT-yellow?style=flat-square)
+  ![Transformers](https://img.shields.io/badge/Transformers-red?style=flat-square)
+  ![LLMs](https://img.shields.io/badge/LLMs-brown?style=flat-square)
+  
+  ### Programming & Frameworks
+  ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white)
+  ![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=flat-square&logo=postgresql&logoColor=white)
+  ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat-square&logo=django&logoColor=white)
+  ![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=flat-square&logo=flask&logoColor=white)
+  ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
+  ![PySpark](https://img.shields.io/badge/PySpark-%23E25A1C.svg?style=flat-square&logo=apache-spark&logoColor=white)
+  
+  ### Cloud & Infrastructure
+  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat-square&logo=docker&logoColor=white)
+  ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=flat-square&logo=kubernetes&logoColor=white)
+  ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=flat-square&logo=apachekafka)
+  ![Airflow](https://img.shields.io/badge/Apache%20Airflow-%23017CEE.svg?style=flat-square&logo=apache-airflow&logoColor=white)
+  
+  ### Databases
+  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
+  ![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white)
+  ![Cassandra](https://img.shields.io/badge/Cassandra-%231287B1.svg?style=flat-square&logo=apache-cassandra&logoColor=white)
+</div>
 
 
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a><a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a><a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=skynoid2612&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="49%" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=skynoid2612&theme=react&hide_border=true&background=0D1117" alt="GitHub Streak" width="49%" height="180px"/>
+</div>
 
+<br>
 
-### Socials
+<div align="center">
+  <h2>🔭 Currently Learning</h2>
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.icons8.com/color/48/000000/learning.png" width="30" height="30"/>
+        <br>Advanced<br>Generative AI
+      </td>
+      <td align="center">
+        <img src="https://img.icons8.com/color/48/000000/brain.png" width="30" height="30"/>
+        <br>LLM<br>Fine-tuning
+      </td>
+      <td align="center">
+        <img src="https://img.icons8.com/color/96/000000/artificial-intelligence.png" width="30" height="30"/>
+        <br>Advanced RAG<br>Architectures
+      </td>
+      <td align="center">
+        <img src="https://img.icons8.com/color/48/000000/picture.png" width="30" height="30"/>
+        <br>Multimodal<br>AI Models
+      </td>
+    </tr>
+  </table>
+</div>
 
-<p align="left"> <a href="https://www.github.com/skynoid2612" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/as26/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+<br>
 
-### Badges
+<div align="center">
+  <h3>📫 Get in Touch</h3>
+  <p>
+    <strong>Email:</strong> akash26121992@gmail.com<br>
+    <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/as26/">akash-saxena</a><br>
+    <strong>Location:</strong> Nagpur, Maharashtra, India
+  </p>
+</div>
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/skynoid2612"><img src="https://github-readme-stats.vercel.app/api?username=skynoid2612&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="skynoid2612's GitHub stats" /></a>
-
-<a href="http://www.github.com/skynoid2612"><img src="https://github-readme-streak-stats.herokuapp.com/?user=skynoid2612&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/skynoid2612"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=skynoid2612&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0891B2&height=120&section=footer" width="100%"/>
+</div>
