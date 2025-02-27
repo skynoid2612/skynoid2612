@@ -51,7 +51,7 @@ me.say_hi()
         <br><em>Advanced RAG-based financial advisory system</em>
       </td>
       <td align="center" width="50%">
-        <img src="   https://cdn-icons-png.flaticon.com/512/3612/3612569.png " width="60" height="60"/>
+        <img src="https://img.icons8.com/color/48/000000/picture.png" width="60" height="60"/>
         <br><strong>Game Recommendation Engine</strong>
         <br><em>AI-powered personalized game recommendations</em>
       </td>
@@ -126,7 +126,7 @@ me.say_hi()
         <br>LLM<br>Fine-tuning
       </td>
       <td align="center">
-        <img src="https://img.icons8.com/color/48/000000/connect.png" width="30" height="30"/>
+        <img src="https://img.icons8.com/color/96/000000/artificial-intelligence.png" width="30" height="30"/>
         <br>Advanced RAG<br>Architectures
       </td>
       <td align="center">
