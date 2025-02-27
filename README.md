@@ -1,4 +1,6 @@
-# 👨‍💻 Akash Hemant Saxena
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0891B2&height=200&section=header&text=Akash%20Hemant%20Saxena&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=30" width="100%"/>
+</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0891B2&center=true&vCenter=true&random=false&width=435&lines=AI+%7C+ML+Engineer;RAG+%26+LLM+Expert;Full-Stack+Data+Scientist" alt="Typing SVG" />
@@ -16,13 +18,15 @@
   </a>
 </div>
 
-## 🌟 About Me
+<br>
+
+## 👨‍💻 About Me
 
 ```python
 class AkashSaxena:
     def __init__(self):
         self.name = "Akash Hemant Saxena"
-        self.role = "AI/ML Engineer"
+        self.role = "AI Engineer"
         self.location = "Nagpur, Maharashtra, India"
         self.education = "BE in Computer Science & Engineering (RTMNU, 2015)"
         self.experience = "5+ years"
@@ -35,47 +39,31 @@ me = AkashSaxena()
 me.say_hi()
 ```
 
-Passionate AI/ML Engineer with expertise in building production-ready AI solutions. I specialize in developing intelligent systems using cutting-edge technologies in Natural Language Processing, Computer Vision, and Retrieval-Augmented Generation (RAG). Currently creating advanced financial advisory systems and recommendation engines that deliver real business impact.
-
-## 🚀 Professional Experience
-
-### AI Engineer | OneGame Inc (Steady Rabbit)
-*April 2024 - Present | Delaware, USA*
-
-- Developing **Kuber.AI**, an advanced RAG-based financial advisory system:
-  - Integrated LLM & LIM via LangChain with custom prompt engineering
-  - Implemented vector database (Weaviate) for efficient document retrieval
-  - Deployed on AWS Lambda with WebSocket and auto-scaling capabilities
-
-- Created a sophisticated **Game Recommendation Engine**:
-  - Combined collaborative filtering with deep learning for personalized recommendations
-  - Implemented A/B testing framework to optimize algorithms
-  - **Increased user engagement by 35%**
-
-### Data Science Engineer | 3EMBED Software Technologies Pvt. Ltd. (AppScrip)
-*Nov 2019 - April 2024 | Bengaluru, India*
-
-- Architected **RAG SaaS Platform**:
-  - Designed scalable microservices architecture using FastAPI and gRPC
-  - Implemented custom document processing pipeline with OCR and NER
-  - **Reduced model deployment time by 50%** and **improved query response time by 60%**
-
-- Developed advanced **NSFW Content Detection System**:
-  - Combined CNN and YOLO for real-time video frame analysis
-  - Processed 10K+ daily uploads with sub-second latency
-  - Integrated with Apache Kafka for real-time content moderation
-
-- Engineered **Byju's ML Pipeline**:
-  - Built end-to-end data pipeline using AWS Glue and Lambda
-  - Handled 2M+ monthly queries with 99.9% uptime
-
-- Built **Multi-modal Recommendation System**:
-  - Integrated text, image, and user behavior analysis
-  - **Improved user engagement by 25%** and **conversion rates by 15%**
-
-## 🛠️ Tech Stack
+<br>
 
 <div align="center">
+  <h3>🚀 Currently Building</h3>
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://img.icons8.com/color/96/000000/artificial-intelligence.png" width="60" height="60"/>
+        <br><strong>Kuber.AI</strong>
+        <br><em>Advanced RAG-based financial advisory system</em>
+      </td>
+      <td align="center" width="50%">
+        <img src="   https://cdn-icons-png.flaticon.com/512/3612/3612569.png " width="60" height="60"/>
+        <br><strong>Game Recommendation Engine</strong>
+        <br><em>AI-powered personalized game recommendations</em>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+<div align="center">
+  <h2>🛠️ Tech Universe</h2>
+
   
   ### AI/ML Frameworks
   ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white)
@@ -117,30 +105,49 @@ Passionate AI/ML Engineer with expertise in building production-ready AI solutio
   ![Cassandra](https://img.shields.io/badge/Cassandra-%231287B1.svg?style=flat-square&logo=apache-cassandra&logoColor=white)
 </div>
 
-## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=skynoid2612&show_icons=true&count_private=true&hide=issues&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=skynoid2612&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=skynoid2612&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="49%" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=skynoid2612&theme=react&hide_border=true&background=0D1117" alt="GitHub Streak" width="49%" height="180px"/>
 </div>
 
-## 🌱 Currently Learning
-
-- Advanced Generative AI techniques
-- LLM fine-tuning and alignment
-- Advanced RAG architectures
-- Multimodal AI models
-
-## 📫 How to Reach Me
-
-- 📧 Email: [akash26121992@gmail.com](mailto:akash26121992@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/as26](https://www.linkedin.com/in/as26/)
-- 🌐 GitHub: [github.com/skynoid2612](https://github.com/skynoid2612)
-- 📍 Location: Nagpur, Maharashtra, India
-
----
+<br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=skynoid2612&style=flat-square&color=0891b2" alt="Profile Views" />
-  <p>If you liked my profile, you can <a href="https://github.com/skynoid2612">Star ⭐ the repo</a> and show some love 💖</p>
+  <h2>🔭 Currently Learning</h2>
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.icons8.com/color/48/000000/learning.png" width="30" height="30"/>
+        <br>Advanced<br>Generative AI
+      </td>
+      <td align="center">
+        <img src="https://img.icons8.com/color/48/000000/brain.png" width="30" height="30"/>
+        <br>LLM<br>Fine-tuning
+      </td>
+      <td align="center">
+        <img src="https://img.icons8.com/color/48/000000/connect.png" width="30" height="30"/>
+        <br>Advanced RAG<br>Architectures
+      </td>
+      <td align="center">
+        <img src="https://img.icons8.com/color/48/000000/picture.png" width="30" height="30"/>
+        <br>Multimodal<br>AI Models
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+<div align="center">
+  <h3>📫 Get in Touch</h3>
+  <p>
+    <strong>Email:</strong> akash26121992@gmail.com<br>
+    <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/as26/">akash-saxena</a><br>
+    <strong>Location:</strong> Nagpur, Maharashtra, India
+  </p>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0891B2&height=120&section=footer" width="100%"/>
 </div>
